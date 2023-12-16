@@ -1,10 +1,10 @@
    html,body{
-    min-width:270px;
+  min-width:270px;
     color: #000000;
     background-color: #F1DBCA;
     font-family: 'Open Sans',Arial,sans-serif;
     line-height: 1.5;
-    margin:20px auto;
+margin:20px auto;
 
 }
  #main{
